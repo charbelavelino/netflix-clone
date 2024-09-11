@@ -1,0 +1,15 @@
+--06-09-2024--
+Full Stack Netflix Clone using React JS & Firebase | Build Website Like Netflix in React JS 2024
+https://www.youtube.com/watch?v=YQQD67N5pi0
+
+commands
+--> 
+C:\dev\yt\netflix-clone>npm create vite@latest .
+√ Current directory is not empty. Please choose how to proceed: » Remove existing files and continue
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in C:\dev\yt\netflix-clone...
+Done. Now run:
+npm install
+npm run dev
